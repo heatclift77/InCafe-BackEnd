@@ -16,7 +16,7 @@ Backend Project InCafe Website
 | /v1/promo | `POST` `GET` `PUT` `DELETE` | Promo |
 | /v1/feedback | `POST` `GET` `PUT` `DELETE` | Feedback |
 
-## Build With
+## Built With
 
 * Node Js
 * Express JS
@@ -52,7 +52,7 @@ node app.js
 ### Postman : https://documenter.getpostman.com/view/10780576/TzCS4R8Q
 
 ### Front End 
-* https://github.com/ErwinSaputraSulistio/In-Cafe
+* https://github.com/therevolt/in-cafe
 
 ### InCaffe Demo
 * Netlify : [Visit Here](https://incafe.netlify.app)
